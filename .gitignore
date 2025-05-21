@@ -178,5 +178,5 @@ installed tensorflow and ran a benchmark/
 
 cat-and-dog.zip
 test_set/
-train_set/
+training_set/
 kaggle.json
